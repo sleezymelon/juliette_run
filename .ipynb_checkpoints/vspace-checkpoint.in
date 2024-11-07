@@ -1,0 +1,13 @@
+sSrcFolder  .
+sDestFolder obq_weekend
+sTrialName  obq_weekend
+
+sPrimaryFile   vpl.in
+sBodyFile  sun.in
+dLuminosity  [-.0255, -.0206, n4]
+sBodyFile   700b.in
+sBodyFile   700c.in
+sBodyFile   700d.in
+dObliquity [0,89,n5]
+sBodyFile   700e.in
+dObliquity [0,89,n5]
